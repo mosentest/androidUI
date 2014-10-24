@@ -26,6 +26,10 @@
             android:name="com.example.androidui.OtherActivity"
             android:label="@string/title_activity_other" >
         </activity>
+        <activity
+            android:name="com.example.androidui.TranslateAnimationMenu"
+            android:label="@string/title_activity_translate_animation_menu" >
+        </activity>
     </application>
 
 </manifest>
